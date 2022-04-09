@@ -108,7 +108,6 @@ function save() {
         payload['arguments'].execute.inArguments = [
             {
                 "contactKey": "{{Contact.Key}}",
-                "uniqueId": "{{Context.DefinitionInstanceId}}",
                 "versionId": "{{Context.DefinitionId}}",
                 "activityId": "{{Activity.Id}}"
             }
