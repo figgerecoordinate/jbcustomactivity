@@ -29,7 +29,7 @@ exports.execute = async (req, res) => {
           Text: data.inArguments[0].Text,
           uniqueId: data.inArguments[0].uniqueId,
           versionId: data.inArguments[0].versionId,
-          activityId: data.inArguments[0].activityId
+          activityId: data.inArguments[0].activityId,
         },
       },
     ]);
