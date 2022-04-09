@@ -6,7 +6,7 @@
   "type": "REST",
   "lang": {
     "en-US": {
-      "description": "Journey Event"
+      "description": "Custom Activity"
     }
   },
   "arguments": {
