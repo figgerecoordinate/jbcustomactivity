@@ -110,7 +110,7 @@ function save() {
                 "contactKey": "{{Contact.Key}}",
                 "uniqueId": "{{Context.DefinitionInstanceId}}",
                 "versionId": "{{Context.DefinitionId}}",
-                "activityId": "{{Activity.Id}}
+                "activityId": "{{Activity.Id}}"
             }
         ];
 
